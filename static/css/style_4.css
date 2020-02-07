@@ -1,0 +1,121 @@
+
+div.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #233335;
+}
+
+div.navbar li {
+  float: left;
+}
+
+div.navbar li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+div.navbar li a:hover {
+  background-color: #611571;
+}
+
+
+div.melon-summary img {
+    width: 200px;
+}
+
+div.melon-summary {
+    display: inline-block;
+
+    width: 300px;
+    vertical-align: top;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+
+li.warning {
+    color: red;
+}
+
+img.product-img {
+    display: inline-block;
+    max-width: 400px;
+}
+
+div.cart {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 30px;
+}
+
+
+.form-signin {
+  max-width: 330px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+}
+.form-signin .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 16px;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="email"] {
+  margin-bottom: -1px;
+  padding: 14px 20px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+.form-signin input[type="password"] {
+  margin-bottom: 10px;
+  padding: 14px 20px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+img.melon-cart {
+  width: 15px;
+  height:15px;
+}
+
+table, td, th {  
+  border: 5px solid #ddd;
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+  width: 75%;
+}
+
+th, td {
+  padding: 15px;
+}
+
+.form-signin button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 75%;
+}
