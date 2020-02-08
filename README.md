@@ -12,3 +12,13 @@ Shopping cart using Flask and sqlite3
 1. Create and implement Rest Api for all the operations.
 2. You can use any in memory database to store the product details. Easier to make it fully functional
 3.  No need to build the UI, We are only looking for backend implementation
+
+
+
+Getting Set Up
+--------------
+1. Start the application by running `python melons.py`.
+
+Navigate to [http://localhost:8080](http://localhost:8080) and start exploring the app.
+
+
